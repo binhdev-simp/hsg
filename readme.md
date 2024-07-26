@@ -4,7 +4,7 @@
 Input: n là số nguyên dương </br>
 Output: giá trị của Fn
 ## Tìm số Ra-one
-## Định nghĩa: Số Ra-one là số mà hiệu của tổng các chữ số ở vị trí chẵn và vị trí lẻ bằng 1
+## Định nghĩa: Số Ra-one là số mà hiệu của tổng các chữ số ở vị trí chẵn và vị trí lẻ bằng 1: [link code](https://github.com/ianTuG/hsg/blob/main/raone.py)
 Input: a, b là 2 số nguyên dương [a, b] (a < b)</br>
 Output: số lượng số Ra-one ở trong đoạn [a,b]</br>
 ### Ví dụ:</br>
