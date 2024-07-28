@@ -11,7 +11,7 @@ Output: số lượng số Ra-one ở trong đoạn [a,b]</br>
 234563 là số Ra-one: (6+4+2)-(3+5+3)=1</br>
 123456 không phải số Ra-one: (5+3+1)-(6+4+2) ≠ 1
 ## Tìm số Lucifer
-## Định nghĩa số Lucifer: là số mà hiệu giữa tổng các chữ số ở vị trí chẵn và tổng các chữ số ở vị trí lẻ là một số nguyên tố: [link code]()
+## Định nghĩa số Lucifer: là số mà hiệu giữa tổng các chữ số ở vị trí chẵn và tổng các chữ số ở vị trí lẻ là một số nguyên tố: [link code](https://github.com/ianTuG/hsg/blob/main/lucifer.py)
 Input: a, b là số nguyên dương (a<b)</br>
 Output: Số lượng số Lucifer có trong đoạn [a,b]
 ### Ví dụ:
