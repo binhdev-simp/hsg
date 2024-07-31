@@ -20,3 +20,4 @@ Output: Số lượng số Lucifer có trong đoạn [a,b]
 ### Ví dụ:
 20314210 là số Lucifer vì: (1+4+3+2) - (0+2+1+0) = 10-7=3 là 1 số nguyên tố
 
+hello
