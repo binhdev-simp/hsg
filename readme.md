@@ -19,7 +19,7 @@ Input: a, b là số nguyên dương (a<b)</br>
 Output: Số lượng số Lucifer có trong đoạn [a,b]
 ### Ví dụ:
 20314210 là số Lucifer vì: (1+4+3+2) - (0+2+1+0) = 10-7=3 là 1 số nguyên tố
-## Tổng lớn nhất: [link code](https://youtube.com)
+## Tổng lớn nhất: [link code](https://github.com/ianTuG/hsg/blob/main/maxsum.py)
 Input: 1 số nguyên dương n (3 ≤ n ≤ 10^14)<br>
 Output: số nguyên dương m (1 ≤ m < n-1) để tổng GCD(m,n)+m đạt max. GCD(m,n) là ước chung lớn nhất của m và n. Nếu có nhiều m thoả mãn thì trả lại giá trị m lớn nhất.<br>
 |Sample input|Sample output|
