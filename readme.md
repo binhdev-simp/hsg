@@ -28,14 +28,14 @@ Output: số nguyên dương m (1 ≤ m < n-1) để tổng GCD(m,n)+m đạt ma
 ### Giới hạn
 • 60% số test ứng với n ≤ 10^4<br>
 • 40% số test ứng với n ≤ 10^14
-## Máy quét số: (link code)[]
+## Máy quét số: [link code](https://github.com/ianTuG/hsg/blob/main/checker.py)
 ### Mô tả:
 Hệ thống máy quét đề nhận dạng các số của một ngân hàng hiện đã bị hacker xâm nhập và làm cho chúng không thể nhận dạng được một số chữ số. Tạm gọi những chữ số mà máy quét không nhận dạng được là chữ số bị hỏng. Máy quét sẽ không nhận dạng được các số có chứa ít nhất một chữ số bị hỏng.
 ### Ví dụ:
 Có 3 chữ số bị hỏng: 0, 1, 3 thì máy quét sẽ không nhận dạng được các số: <br>
 1, 3, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 30,...<br>
 Để đánh giá khả năng làm việc của máy quét, đội kiểm định đưa ra yêu cầu: biết các chữ số bị hỏng và một số nguyên dương n cho trước, họ cần biết có bao nhiêu số nguyên dương không vượt quá n mà máy quét vẫn có thể nhận dạng được.<br>
-<br><br>
+<br>
 - Input:<br>
 • Dòng 1: Gồm 1 số nguyên dương n (n≤10^7)<br>
 • Dòng 2: Gồm một xâu kí tự là các chữ số bị hỏng (len_str < 10), các chữ số bị hỏng sẽ được viết liền không có dấu cách.<br>
