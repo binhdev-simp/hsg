@@ -41,16 +41,16 @@ Có 3 chữ số bị hỏng: 0, 1, 3 thì máy quét sẽ không nhận dạng 
 • Dòng 2: Gồm một xâu kí tự là các chữ số bị hỏng (len_str < 10), các chữ số bị hỏng sẽ được viết liền không có dấu cách.<br>
 - Output: Số nguyên dương m duy nhất (m < n) mà máy quét có thể nhận dạng được. 
 
-## Số chính phươngph: [link code]()
+## Số chính phương đặc biệt: [link code](https://github.com/ianTuG/hsg/blob/main/cpdb.py)
 ### Định nghĩa:
 - Số chính phương đặc biệt là số chính phương được tạo bởi một số nguyên tố.
 ### Ví dụ:
 - 4 = 2 x 2 là số chính phương đặc biệt <br>
 - 9 = 3 x 3 là số chính phương đặc biệt <br>
 - 36 = 6 x 6 không phải là số chính phương đặc biệt<br>
-|input.inp|output.out|
-|:-----:|:-----:|
-|2 10|2|
+|input.inp    |output.out   |
+|:-----------:|:-----------:|
+|2 10         |         2   |
 ### Nhập xuất:
 - Input: 2 số nguyên dương a, b (2≤a≤b≤10^12) <br>
 - Output: Trong đoạn [a..b] có bao nhiêu số chính phương đặc biệt. <br>
