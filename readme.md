@@ -47,7 +47,7 @@ Có 3 chữ số bị hỏng: 0, 1, 3 thì máy quét sẽ không nhận dạng 
 ### Ví dụ:
 - 4 = 2 x 2 là số chính phương đặc biệt <br>
 - 9 = 3 x 3 là số chính phương đặc biệt <br>
-- 36 = 6 x 6 không phải là số chính phương đặc biệt
+- 36 = 6 x 6 không phải là số chính phương đặc biệt<br>
 |input.inp|output.out|
 |:-----:|:-----:|
 |2 10|2|
