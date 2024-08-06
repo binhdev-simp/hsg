@@ -10,10 +10,11 @@ def ktnt(x):
         else: 
             for i in range(3,round(x**0.5),2):
                 if x%i ==0: return False
-                else:return True
-for i in range(round(m**0.5),round(n**0.5)+1):
-    if ktnt(i):
-        c+=1
-print(c)
+    return True
+if 2<=m<=n<=10**12:
+    for i in range(round(m**0.5),round(n**0.5)+1):
+        if ktnt(i):
+            c+=1
+ff.write(str(c))
 f.close()
 ff.close()
