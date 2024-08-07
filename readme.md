@@ -52,3 +52,5 @@ Có 3 chữ số bị hỏng: 0, 1, 3 thì máy quét sẽ không nhận dạng 
 - Input: 2 số nguyên dương a, b (2≤a≤b≤10^12) <br>
 - Output: Trong đoạn [a..b] có bao nhiêu số chính phương đặc biệt. <br>
 - Dữ liệu vào từ tệp input.inp và ghi kết quả ra ở tệp output.out.<br>
+
+## Bảng số: [link code]()
