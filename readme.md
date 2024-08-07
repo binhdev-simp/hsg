@@ -56,4 +56,9 @@ Có 3 chữ số bị hỏng: 0, 1, 3 thì máy quét sẽ không nhận dạng 
 ## Bảng số: [link code](https://github.com/ianTuG/hsg/blob/main/bs.py)
 ### Mô tả:
 - Cho một bảng vuông gồm n hàng và n cột. Các hàng được đánh số từ 1 đến n, các cột được đánh số từ 1 đến n. Ô ở hàng thứ i và cột thứ j có giá trị là i x j (1 ≤ i ≤ n, 1 ≤ j ≤ n).
-### Yêu cầu: <p>Cho một số nguyên dương x. Hãy đếm số lượng ô có trong bảng giá trị bằng x</p>
+### Yêu cầu:
+Cho một số nguyên dương x. Hãy đếm số lượng ô có trong bảng giá trị bằng x.
+### Nhập xuất:
+- Input: hai số nguyên dương n và x (1 ≤ n ≤ 10^6, 1 ≤ x ≤ 10^12) là kích thước của bảng và số nguyên cần tìm<br>
+- Output: số nguyên x duy nhất là số ô có trong bảng.<br>
+• nhập xuất các giá trị thông qua tệp.
