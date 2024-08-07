@@ -53,4 +53,7 @@ Có 3 chữ số bị hỏng: 0, 1, 3 thì máy quét sẽ không nhận dạng 
 - Output: Trong đoạn [a..b] có bao nhiêu số chính phương đặc biệt. <br>
 - Dữ liệu vào từ tệp input.inp và ghi kết quả ra ở tệp output.out.<br>
 
-## Bảng số: [link code]()
+## Bảng số: [link code](https://github.com/ianTuG/hsg/blob/main/bs.py)
+### Mô tả:
+- Cho một bảng vuông gồm n hàng và n cột. Các hàng được đánh số từ 1 đến n, các cột được đánh số từ 1 đến n. Ô ở hàng thứ i và cột thứ j có giá trị là i x j (1 ≤ i ≤ n, 1 ≤ j ≤ n).
+### Yêu cầu: <p>Cho một số nguyên dương x. Hãy đếm số lượng ô có trong bảng giá trị bằng x</p>
