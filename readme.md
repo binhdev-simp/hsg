@@ -62,3 +62,13 @@ Cho một số nguyên dương x. Hãy đếm số lượng ô có trong bảng 
 - Input: hai số nguyên dương n và x (1 ≤ n ≤ 10^6, 1 ≤ x ≤ 10^12) là kích thước của bảng và số nguyên cần tìm<br>
 - Output: số nguyên x duy nhất là số ô có trong bảng.<br>
 • nhập xuất các giá trị thông qua tệp.
+
+# HSG Tin chuyên Hà Tĩnh [source]()
+## Bài 1. Tổng dãy số: [source]()
+- Cho dãy số T1, T2, T3,.... Tn.<br>
+- Số hạng tổng quát: Tk = (k+1)^2 -k^2 (k thuộc Z và 1 ≤ k ≤ n)<br>
+- Yêu cầu: Tính S = T1 + T2 + T3 + ...
+### input:
+File văn bản sums.inp gồm 1 dòng duy nhất chứa số nguyên dương n ( 1 ≤ n ≤ 10^9 )
+### output: 
+- Số S đã tính được.
