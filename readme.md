@@ -72,3 +72,12 @@ Cho một số nguyên dương x. Hãy đếm số lượng ô có trong bảng 
 File văn bản sums.inp gồm 1 dòng duy nhất chứa số nguyên dương n ( 1 ≤ n ≤ 10^9 )
 ### output: 
 - Số S đã tính được vào file sums.out
+## Bài 2: Số đặc biệt: [source](https://github.com/ianTuG/hsg/blob/main/Chuy%C3%AAn%20H%C3%A0%20T%C4%A9nh/B%C3%A0i%202/bnum.py)
+- Mô tả: Số đặc biệt là tổng bình phương các chữ số của nó là số nguyên tố (VD: 12, 14, 21 là các số đặc biệt)<br>
+- Yêu cầu: Cho số nguyên dương n. Kiểm tra n có phải số nguyên tố đặc biệt hay không.
+### input:
+file văn bản bnum.inp
+### output:
+File văn bản bnum.out gồm 2 dòng:<br>
+- Dòng 1: số n là số đặc biệt, nếu n không phải số đặc biệt thì -1<br>
+- Dòng 2: Một số là tổng bình phương các chữ số của n.
