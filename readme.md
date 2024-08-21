@@ -76,7 +76,7 @@ File văn bản sums.inp gồm 1 dòng duy nhất chứa số nguyên dương n 
 - Mô tả: Số đặc biệt là tổng bình phương các chữ số của nó là số nguyên tố (VD: 12, 14, 21 là các số đặc biệt)<br>
 - Yêu cầu: Cho số nguyên dương n. Kiểm tra n có phải số nguyên tố đặc biệt hay không.
 ### input:
-file văn bản bnum.inp
+file văn bản bnum.inp (10≤n≤10^18)
 ### output:
 File văn bản bnum.out gồm 2 dòng:<br>
 - Dòng 1: số n là số đặc biệt, nếu n không phải số đặc biệt thì -1<br>
